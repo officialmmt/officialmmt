@@ -2,7 +2,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=officialmmt)](https://git.io/streak-stats)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=officialmmt)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile views](https://komarev.com/ghpvc/?username=officialmmt&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/officialmmt?style=social)
+![Repos](https://img.shields.io/github/stars/officialmmt?style=social)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Projects-F7DF1E?logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-Roblox-2C2D72?logo=lua&logoColor=white)
