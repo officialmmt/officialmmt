@@ -1,4 +1,23 @@
 ## Hi there 👋
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=officialmmt&show_icons=true&theme=transparent"
+    height="165"
+    alt="GitHub istatistikleri"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmmt&layout=compact&theme=transparent"
+    height="165"
+    alt="En çok kullanılan programlama dilleri"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=officialmmt&theme=github-compact"
+    alt="GitHub katkı etkinliği grafiği"
+  />
+</p>
 
 <!--
 **officialmmt/officialmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
