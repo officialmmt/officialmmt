@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.app?user=officialmmt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=officialmmt)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=officialmmt&theme=flat&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=officialmmt)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Projects-F7DF1E?logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-Roblox-2C2D72?logo=lua&logoColor=white)
