@@ -1,10 +1,8 @@
 ## Hi there 👋
-![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=officialmmt&show_icons=true&theme=transparent)
-
-![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=officialmmt&layout=compact&theme=transparent)
-
-![Katkı etkinliği grafiği](https://github-readme-activity-graph.vercel.app/graph?username=officialmmt&theme=github-compact)
-
+![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=officialmmt&show_icons=true)
+![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=officialmmt&layout=compact)
+[![GitHub katkı serisi](https://streak-stats.demolab.com?user=officialmmt)](https://git.io/streak-stats)
+![GitHub etkinlik grafiği](https://github-readme-activity-graph.vercel.app/graph?username=officialmmt)
 <!--
 **officialmmt/officialmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
